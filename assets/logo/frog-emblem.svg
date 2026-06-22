@@ -1,0 +1,14 @@
+﻿<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frogEmblemBg" x1="16" y1="12" x2="80" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F241D" />
+      <stop offset="1" stop-color="#1A5F42" />
+    </linearGradient>
+  </defs>
+  <rect x="7" y="7" width="82" height="82" rx="18" fill="url(#frogEmblemBg)" />
+  <rect x="8.5" y="8.5" width="79" height="79" rx="16.5" stroke="#C8F1D5" stroke-opacity="0.22" stroke-width="3" />
+  <path d="M27 70V28H67" stroke="#F6FFF8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M28 49H61" stroke="#F6FFF8" stroke-width="7" stroke-linecap="round" />
+  <path d="M34 70V54H61" stroke="#7BE09B" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="68" cy="28" r="5" fill="#7BE09B" />
+</svg>

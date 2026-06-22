@@ -1,4 +1,4 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+﻿# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
 node_modules/
@@ -22,6 +22,7 @@ expo-env.d.ts
 .metro-health-check*
 
 # debug
+expo-web.*.log
 npm-debug.*
 yarn-debug.*
 yarn-error.*
@@ -39,3 +40,4 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
